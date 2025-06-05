@@ -3,5 +3,5 @@
 - git clone 다루기
 
 >clond과 pull
--git clone : 원격저장소를 내 컴퓨터로 가져오기
--git pull : 원격저장소의 변경사항을 내 컴퓨터로 가져오기 
+- git clone : 원격저장소를 내 컴퓨터로 가져오기
+- git pull : 원격저장소의 변경사항을 내 컴퓨터로 가져오기 
